@@ -60,6 +60,14 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
   } satisfies Preset.ThemeConfig,
+  markdown: {
+    parseFrontMatter: async (params) => {
+      const result = await params.defaultParseFrontMatter(params);
+      result.frontMatter.pagination_prev = null;
+      result.frontMatter.pagination_next = null;
+      return result;
+    },
+  },
 };
 
 export default config;

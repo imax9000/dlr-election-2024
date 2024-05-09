@@ -1,5 +1,8 @@
 # Mary Fayne
 
+* Twitter: https://twitter.com/FayneMary
+* Facebook: https://www.facebook.com/profile/100063906107589/
+
 ## Nomination
 
 https://www.finegael.ie/our-people/local-election-candidates/dublin/dun-laoghaire-rathdown/dun-laoghaire/mary-fayne/

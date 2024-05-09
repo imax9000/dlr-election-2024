@@ -5,6 +5,8 @@
 
 ## Nomination
 
+https://drive.google.com/file/d/1Z_SfD4L3j1cfXkwBCbfnCxEFsv8GQqOZ/view
+
 The Local Elections will take place on Friday, June 7th.
 
 If elected, I pledge to:

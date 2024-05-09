@@ -1,5 +1,7 @@
 # J. P. Durkan
 
+* Twitter: [https://twitter.com/jpleopard](https://twitter.com/i/user/117866791)
+
 ## Nomination
 
 https://www.finegael.ie/our-people/local-election-candidates/dublin/dun-laoghaire-rathdown/dun-laoghaire/j-p-durkan/

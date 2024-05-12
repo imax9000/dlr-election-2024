@@ -6,7 +6,7 @@ sidebar_position: 0
 | Name                   | Party           | Notes              |
 | ---------------------- | --------------- | ------------------ |
 | [Justin Moylan](Justin_Moylan.md) | Fianna Fáil | Currently elected. |
-| [Lorraine Hall](Lorraine_Hall.md) | Fine Gael   | Currently elected. Follows Clare Daly 🚩 |
+| [Lorraine Hall](Lorraine_Hall.md) | Fine Gael   | Currently elected. Follows Clare Daly 🚩. Does not advocate for neutrality 🟢 nor peace with russia 🟢 |
 | [Melisa Halpin](Melisa_Halpin.md) | People Before Profit | Currently elected. Follows Clare Daly 🚩 Peace with russia 🚩 |
 | [Tom Kivlehan](Tom_Kivlehan.md)       | Green Party | Currently elected.                   |
 | [Mary Fayne](Mary_Fayne.md) | Fine Gael   | Currently elected.                   |

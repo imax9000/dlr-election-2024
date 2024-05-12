@@ -2,6 +2,10 @@
 
 * Twitter: [https://twitter.com/LorraineHallFG](https://twitter.com/i/user/149028228)
 
+Follows Clare Daly.
+
+However, does not use neutrality to help russia: ![alt text](/img/lorraine_hall_neutrality.png).
+
 ## Nomination
 
 https://www.finegael.ie/our-people/local-election-candidates/dublin/dun-laoghaire-rathdown/dun-laoghaire/lorraine-hall/

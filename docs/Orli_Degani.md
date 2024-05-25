@@ -18,3 +18,11 @@ If elected, I pledge to:
 * Improve private & social housing availability & affordability for everyone
 * Improve and increase public transport services – connecting all areas of Dún Laoghaire
 * Invest in high quality, inclusive, available, and affordable education, from nursery to third level
+
+## Notes
+
+Promoted a homophobe at least once:
+
+![alt text](/img/degani.1.png)
+
+Signed Anti-Racism Election Protocol: https://drive.google.com/file/d/1FwkhmkTD3AixMMrqdK0v8aFn8sLmNDBh/view

@@ -1,6 +1,7 @@
 # Lorraine Hall
 
 * Twitter: [https://twitter.com/LorraineHallFG](https://twitter.com/i/user/149028228)
+* Council recordings: https://dlrcoco.public-i.tv/core/portal/speaker_profile/39816
 
 Follows Clare Daly.
 

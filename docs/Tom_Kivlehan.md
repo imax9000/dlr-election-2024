@@ -3,6 +3,7 @@
 https://www.tomkivlehan.com/
 
 * Twitter: [https://twitter.com/tomkivlehan](https://twitter.com/i/user/119696073)
+* Council recordings: https://dlrcoco.public-i.tv/core/portal/speaker_profile/42046
 
 ## Nomination
 

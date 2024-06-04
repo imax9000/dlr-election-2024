@@ -14,14 +14,14 @@ sidebar_position: 0
 | [Lorraine Hall](Lorraine_Hall.md)           | Fine Gael            | Currently elected. Follows Clare Daly 🚩. Does not advocate for neutrality 🟢 nor peace with russia 🟢 |
 | [Colette O'Sullivan](Colette_O_Sullivan.md) | Fianna Fáil          |                                                                                                        |
 | [J. P. Durkan](J_P_Durkan.md)               | Fine Gael            |                                                                                                        |
-| [Orli Degani](Orli_Degani.md)               |                      | Pro-inclusion 🟢                                                                                                      |
+| [Hugo Mills](Hugo_Mills.md)                 | Social Democrats     |                                                                                                        |
 
 ## Maybe not
 
 | Name                                        | Party                | Notes                                                                                                  |
 | ------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------ |
-| [Thomas Joseph](Thomas_Joseph.md)           | Labour               |                                                                                                        |
-| [Hugo Mills](Hugo_Mills.md)                 | Social Democrats     |                                                                                                        |
+| [Thomas Joseph](Thomas_Joseph.md)           | Labour               | Labour Party is pro-Ukraine, but likes "good russians" and defends Irish neutrality. 🚩                                                                                                      |
+| [Orli Degani](Orli_Degani.md)               | Social Democrats                     | Pro-inclusion. 🟢 Cooperates with a homophobe. 🚩                                                                                                     |
 
 
 ## Definitely no

@@ -2,6 +2,7 @@
 
 * Twitter: https://twitter.com/FayneMary
 * Facebook: https://www.facebook.com/profile/100063906107589/
+* Council recordings: https://dlrcoco.public-i.tv/core/portal/speaker_profile/40967
 
 ## Nomination
 

@@ -25,4 +25,8 @@ Promoted a homophobe at least once:
 
 ![alt text](/img/degani.1.png)
 
+Scratch that, actually joined him walking around knocking on people's doors:
+
+![](/img/degani.2.png)
+
 Signed Anti-Racism Election Protocol: https://drive.google.com/file/d/1FwkhmkTD3AixMMrqdK0v8aFn8sLmNDBh/view
